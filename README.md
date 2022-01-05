@@ -19,3 +19,9 @@ Codes from CSE415:  HPC university course for Fall 2021, FOE ASU CHEP
  
  To run reversearray.py, in terminal type:  
  `mpiexec -np 3 python reversearray.py`
+
+### revarray-input.py  
+ **Requested:** A mpi4py code that takes an input from the user as an array of integers, splits it into 2 processes and returns the array in reverse.
+ 
+ To run revarray-input.py  , in terminal type:  
+ `mpiexec -np 3 python reversearray.py`
